@@ -1,4 +1,4 @@
-This is the software created using Network-Oriented Modeling. This allows to explore causal relations, and behaviors related to it. For more details and concepts please follow the following references.
+We implemented this software using concepts of Network-Oriented Modeling. Network-Oriented Modeling allows you to explore causal relations, and behaviors related to a certain relation. For more details and concepts please follow the following references.
 
 Treur, J. (2016). Network-Oriented Modeling and Its Conceptual Foundations. Network-Oriented Modeling, 3–33. https://doi.org/10.1007/978-3-319-45213-5_1
 
